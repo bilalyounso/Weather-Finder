@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  /*Photo by Tevin Trinh on Unsplash */
+  background-image: url('./tevin-trinh-324186-unsplash.jpg');
+
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
