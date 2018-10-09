@@ -1,2 +1,2 @@
 # Weather-Finder
-Using Reactjs
+This application was built using react.js
