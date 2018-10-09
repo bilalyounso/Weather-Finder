@@ -9,3 +9,14 @@ body {
   background-repeat: no-repeat;
 
 }
+
+
+#watermark{
+  margin-top: 50%;
+  margin-bottom: 50px;
+  color: #ffffff;
+  text-align: center;
+  vertical-align: middle;
+  font-family: 'Courgette', cursive;
+
+}
